@@ -8,9 +8,9 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 
 ### Pré-requisitos
 
-Servidor usar Noje.js
-Site usar ReactJS
-App usar ReactNative
+Servidor usar Noje.js <br>
+Site usar ReactJS <br>
+App usar ReactNative <br>
 
 O que você precisa para instalar o software e como instalá-lo
 
