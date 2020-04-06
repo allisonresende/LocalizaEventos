@@ -25,10 +25,16 @@ Uma série de exemplos passo a passo que mostram como obter um ambiente de desen
 Passo 1
 
 ```
-Ainda em Projeto
+npm install express
 ```
 
 Passo 2..N
+
+```
+npm install -D nodemon
+```
+
+Passo 3..N
 
 ```
 Ainda em Projeto
